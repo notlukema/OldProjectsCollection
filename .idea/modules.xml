@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ReadingHelper/ReadingHelper.iml" filepath="$PROJECT_DIR$/ReadingHelper/ReadingHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Visuals/Visuals.iml" filepath="$PROJECT_DIR$/Visuals/Visuals.iml" />
+    </modules>
+  </component>
+</project>
